@@ -1,5 +1,5 @@
 # Proyecto de Reproductor de Video en JavaScript
-
+https://martin-juncos.github.io/Video/
 ### Descripción del Proyecto
 
 Este proyecto es una implementación de un reproductor de video interactivo utilizando JavaScript. El reproductor de video permite a los usuarios reproducir, pausar y cambiar el tamaño del video.
